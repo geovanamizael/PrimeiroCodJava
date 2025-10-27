@@ -7,7 +7,7 @@ public class AprendendoString {
 		/*String em Java sempre será um texto de tamanho qualquer.*/
 		/*ele pode representar várias coisas e inicia com letra MAIÚSCULA*/
 
-		String textoQualquer = tudopodevirartexto; 
+		/*String textoQualquer = tudopodevirartexto;*/ 
 		
 		/*é muito usado para cadastro. Exemplos abaixo*/
 		
