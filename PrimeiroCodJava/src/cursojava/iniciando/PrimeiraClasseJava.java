@@ -19,3 +19,6 @@ public class PrimeiraClasseJava {
 		System.out.println("Média das notas = " + (nota1 + nota2 + nota3 + nota4) /4 );
 	}
 }
+
+/* se precisar usar números inteiros, coloque o INT*/
+/*se for usar cpf, ele se torna string pelo tamanho*/
