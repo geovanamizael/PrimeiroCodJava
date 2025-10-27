@@ -3,6 +3,11 @@ package cursojava.iniciando;
 public class OperacoesLogicas {
 
 	public static void main(String[] args) {
+		
+		/*OPERAÇÕES LÓGICAS:
+		 * -> são regras de negocio do mundo real que aplicamos na programação. 
+		 * -> Fazemos várias verificações e as condições lógicas voltam 
+		 * como VERDADEIRO ou FALSO*/
 
 		int nota1 = 80; 
 		int nota2 = 80;
